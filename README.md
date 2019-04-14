@@ -26,7 +26,7 @@ This README would normally document whatever steps are necessary to get your app
       php artisan db:seed      
 
 * hit the below url in browser
-      http://localhost:8000/
+      http://localhost:8000/login
 
 ### Contribution guidelines ###
 
